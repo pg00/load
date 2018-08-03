@@ -1,0 +1,15 @@
+[kdeglobals][KDE]
+
+[kdeglobals][General]
+ColorScheme=Simming Color
+
+[kdeglobals][Icons]
+Theme=Papirus-Dark
+
+[plasmarc][Theme]
+name=Simming
+
+[kwinrc][org.kde.kdecoration2]
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
