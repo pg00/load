@@ -8,3 +8,6 @@ install here:
 ```
 /home/[user]/.local/share/plasma/
 ```
+
+***
+pg00
